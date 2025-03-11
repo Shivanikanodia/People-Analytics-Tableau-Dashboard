@@ -1,5 +1,5 @@
 # People-Analytics-Tableau-Dashboard
-The Dashboard showcase key metrics important for HR Business Partners to improve workforce planning, performance manageement, employee engagement and reduce employee retention increasing turnover. 
+The Dashboard showcase key metrics important for HR Business Partners to improve workforce planning, performance management, employee engagement and to reduce employee retention increasing turnover. 
 
 👉 [View the interactive Tableau Dashboard](https://public.tableau.com/app/profile/shivani.kanodia/viz/PeopleAnalyticsDashboard_17259103232100/Dashboard2)
 
